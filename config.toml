@@ -1,0 +1,95 @@
+baseURL = "https://mattiapezzotti.com/"
+title = "Mattia Pezzotti"
+paginate = 5
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+googleAnalytics = "UA-123-45"
+
+[minify]
+disableXML = true
+minifyOutput = true
+
+[params]
+env = "production"
+title = "Mattia Pezzotti"
+description = "My Personal Website"
+DateFormat = "January 2, 2006"
+defaultTheme = "auto"
+disableThemeToggle = false
+ShowReadingTime = false
+ShowShareButtons = false
+ShowPostNavLinks = true
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = true
+disableSpecial1stPost = false
+disableScrollToTop = false
+comments = false
+hidemeta = false
+hideSummary = false
+showtoc = false
+tocopen = false
+
+  [params.assets]
+  favicon = "./images/favicons/favicon.ico"
+  favicon16x16 = "./images/favicons/favicon-16x16.png"
+  favicon32x32 = "./images/favicons/favicon-32x32.png"
+  apple_touch_icon = "./images/favicons/favicon.ico"
+  safari_pinned_tab = "./images/favicons/favicon.ico"
+
+  [params.profileMode]
+  enabled = true
+  title = "Mattia Pezzotti"
+  subtitle = "Computer Science Student"
+  imageUrl = "./images/propic.jpg"
+  imageWidth = 300
+  imageHeight = 300
+  imageTitle = "me"
+
+  [params.homeInfoParams]
+  Title = "Ciao, I'm Mattia"
+  Content = "Computer Science Student"
+
+  [[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/mattiapezzotti"
+
+  [[params.socialIcons]]
+  name = "email"
+  url = "mailto:matpezzo01@gmail.com"
+
+  [[params.socialIcons]]
+  name = "telegram"
+  url = "https://t.me/pezzmatty"
+
+  [[params.socialIcons]]
+  name = "instagram"
+  url = "https://instagram.com/pezzmatty_"
+
+  [[params.socialIcons]]
+  name = "twitter"
+  url = "https://twitter.com/PezzoJ"
+
+  [params.cover]
+  hidden = true
+  hiddenInList = true
+  hiddenInSingle = true
+
+[[menu.main]]
+identifier = "about"
+name = "About Me"
+url = "/about"
+weight = 10
+
+[[menu.main]]
+identifier = "resume"
+name = "Resume"
+url = "/resume"
+weight = 10
+
+[[menu.main]]
+name = "Github"
+url = "https://github.com/mattiapezzotti"
+

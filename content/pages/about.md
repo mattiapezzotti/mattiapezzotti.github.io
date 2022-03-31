@@ -1,0 +1,14 @@
+---
+title: "About Me"
+subtitle: "me"
+url: "/about"
+---
+
+Ciao! I'm **Mattia**, a 21 years old student based in Provaglio d'Iseo, Italy. I graduated in 2020 from IIS Castelli and now I'm studying **Computer Science** at Milano Bicocca University. 
+
+I have a [**B2 English Cambridge Certificate**](https://drive.google.com/file/d/16bkBccFPPHTTRpmC1qb2y8NQIouHUsMn/view?usp=sharing).  
+I partecipated in an **Erasmus+** project in 2019, going abroad for 3 weeks in Berlin and I was a member of our school **First Tech Challenge** team where our robot competed in [Barcelona in 2019](https://www.youtube.com/watch?v=0rJRK7LRTeA).  
+
+I also worked for [**sme.up**](https://www.smeup.com/), a local ERP software house for a 4-month internship.
+
+I really love hiking and all of *nerdy* stuff.
