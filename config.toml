@@ -2,6 +2,7 @@ baseURL = "https://mattiapezzotti.github.io/"
 title = "Mattia Pezzotti"
 paginate = 5
 theme = "PaperMod"
+publishdir = "docs"
 enableRobotsTXT = true
 buildDrafts = false
 buildFuture = false
@@ -31,6 +32,7 @@ hidemeta = false
 hideSummary = false
 showtoc = false
 tocopen = false
+
 
   [params.assets]
   favicon = "./images/favicons/favicon.ico"
