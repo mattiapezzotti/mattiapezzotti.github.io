@@ -11,4 +11,18 @@ I partecipated in an **Erasmus+** project in 2019, going abroad for 3 weeks in B
 
 I also worked for [**sme.up**](https://www.smeup.com/), a local ERP software house for a 4-month internship.
 
-I really love hiking and all of *nerdy* stuff.
+I really love hiking and all of *nerdy* stuff and as such I sometimes contribute to mapping local places on OpenStreetMap.  
+
+### To sum it up:
+-	I’m Passionate, Hard-Working and a Tech Enthusiast.
+-	I’m always up for a Challenge, whether it be technical or personal.
+-	I always care for the details; those are the one that makes a difference.
+-	I am Open-Minded and always ready to learn something new from someone who has more experience than I do.
+
+## Notable technical skills:
+-	Proficient in Java.
+-	Competent in JavaScript.
+-	Advanced Beginner in C++.
+-	Beginner in Python.
+-	Beginner in SQL.
+-	Git and GitHub for everyday task.
