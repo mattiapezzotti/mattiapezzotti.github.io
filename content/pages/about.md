@@ -4,7 +4,7 @@ subtitle: "me"
 url: "/about"
 ---
 
-Ciao! I'm **Mattia**, a 21 years old student based in Provaglio d'Iseo, Italy. I graduated in 2020 from IIS Castelli and now I'm studying **Computer Science** at Milano Bicocca University. 
+Ciao! I'm **Mattia**, a 22 years old student based in Provaglio d'Iseo, Italy. I graduated in 2023 from in **Computer Science** at Milano-Bicocca University. I am now attending a **Master's Degree** in Computer Science at Milano-Bicocca University.
 
 I have a [**B2 English Cambridge Certificate**](https://drive.google.com/file/d/16bkBccFPPHTTRpmC1qb2y8NQIouHUsMn/view?usp=sharing).  
 I partecipated in an **Erasmus+** project in 2019, going abroad for 3 weeks in Berlin and I was a member of our school **First Tech Challenge** team where our robot competed in [Barcelona in 2019](https://www.youtube.com/watch?v=0rJRK7LRTeA).  
