@@ -4,5 +4,5 @@ subtitle: "cv"
 url: "/resume"
 ---
 
-![resume](../images/2023cv.jpg)
-[Source](https://drive.google.com/file/d/180XJF0hv5CTAdnH_DoCAtjthQq2RZ3HP/view?usp=sharing)
+![resume](../images/CV_ENG.jpg)
+[Source](https://drive.google.com/file/d/1_eZxtqdYpxsSaljbt_NpUIHTsgt5cZt4/view?usp=drive_link)
