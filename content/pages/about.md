@@ -12,7 +12,9 @@ I partecipated in an **Erasmus+** project in 2019, going abroad for 3 weeks in B
 
 I worked for [**sme.up**](https://www.smeup.com/), a local ERP software house for a 4-month internship.
 
-In the summer of 2024, I've partecipated in **Google Summer of Code** program. I've worked with **OpenStreetMap** to integrate Panoramax, a streetlevel image service, into iD, OSM online editor. You can find out more [in my journal](https://www.openstreetmap.org/user/Juicio/diary). [Here](https://drive.google.com/file/d/1xsxeHFRMuEPKfCvRdMD5oUHcFn2Bt-Tx/view?usp=sharing) you can find my certificate.
+In the summer of 2024, I've partecipated in **Google Summer of Code** program. I've worked with **OpenStreetMap** to integrate Panoramax, a streetlevel image service, into iD, OSM online editor. You can find out more [in my journal](https://www.openstreetmap.org/user/Juicio/diary). [Here](https://drive.google.com/file/d/1xsxeHFRMuEPKfCvRdMD5oUHcFn2Bt-Tx/view?usp=sharing) you can find my certificate.  
+From November 2024 to May 2025, I've continued to work with OpenStreetMap on my **Master Thesis**: *"Study, Analysis and Development of Object Lifecycle Mapping in OpenStreetMap's iD editor"*.  
+Both times I've worked with the classic **HTML, CSS, JS** stack using **D3.js**.
 
 I really love to travel, to hike and to climb. In my spare time I usually play [videogames](https://steamcommunity.com/id/Juicio/).  
 
@@ -27,5 +29,4 @@ I really love to travel, to hike and to climb. In my spare time I usually play [
 -	JavaScript.
 -	C++.
 -	Python.
--	SQL.
 -	Git and GitHub for everyday task.
