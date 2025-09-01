@@ -4,7 +4,7 @@ subtitle: "me"
 url: "/about"
 ---
 
-Ciao! I'm **Mattia**, a 23 years old student based in Provaglio d'Iseo, Italy. I graduated in 2023 from in **Computer Science** at Milano-Bicocca University. I am now attending a **Master's Degree** in Computer Science at Milano-Bicocca University.
+Ciao! I'm **Mattia**, a 24 years old student based in Provaglio d'Iseo, Italy. I graduated in 2023 from in **Computer Science** at Milano-Bicocca University. I am now attending a **Master's Degree** in Computer Science at Milano-Bicocca University.
 
 I have a [**B2 English Cambridge Certificate**](https://drive.google.com/file/d/16bkBccFPPHTTRpmC1qb2y8NQIouHUsMn/view?usp=sharing).  
 
