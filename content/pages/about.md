@@ -10,10 +10,12 @@ I have a [**B2 English Cambridge Certificate**](https://drive.google.com/file/d/
 
 I partecipated in an **Erasmus+** project in 2019, going abroad for 3 weeks in Berlin and I was a member of our school **First Tech Challenge** team where our robot competed in [Barcelona in 2019](https://www.youtube.com/watch?v=0rJRK7LRTeA).  
 
-I worked for [**sme.up**](https://www.smeup.com/), a local ERP software house for a 4-month internship.
+I worked for [**sme.up**](https://www.smeup.com/), a local ERP software house for a 4-month internship as a **Java** developer. I also developed an internal **Python** application using computer vision techniques to automatically extract data from invoices.
 
-In the summer of 2024, I've partecipated in **Google Summer of Code** program. I've worked with **OpenStreetMap** to integrate Panoramax, a streetlevel image service, into iD, OSM online editor. You can find out more [in my journal](https://www.openstreetmap.org/user/Juicio/diary). [Here](https://drive.google.com/file/d/1xsxeHFRMuEPKfCvRdMD5oUHcFn2Bt-Tx/view?usp=sharing) you can find my certificate.  
-From November 2024 to May 2025, I've continued to work with OpenStreetMap on my **Master Thesis**: *"Study, Analysis and Development of Object Lifecycle Mapping in OpenStreetMap's iD editor"*.  
+I worked for [**DGS spa**](https://www.dgsspa.com/) for a 3 Months Internship to write my Bachelor's Thesis. I developed a **C#** script to analyze data series.
+
+In the summer of 2024, I've partecipated in **Google Summer of Code** program. I've worked with **OpenStreetMap** to integrate Panoramax, a streetlevel image service, into iD, OSM online editor. You can find out more [here](https://www.openstreetmap.org/user/Juicio/diary/404174). [Here](https://drive.google.com/file/d/1xsxeHFRMuEPKfCvRdMD5oUHcFn2Bt-Tx/view?usp=sharing) you can find my certificate.  
+From November 2024 to May 2025, I've continued to work with OpenStreetMap on my **Master Thesis**: *"Study, Analysis and Development of Object Lifecycle Mapping in OpenStreetMap's iD editor"*. You can find out more [here](https://www.openstreetmap.org/user/Juicio/diary/407387).
 Both times I've worked with the classic **HTML, CSS, JS** stack using **D3.js**.
 
 I really love to travel, to hike and to climb. In my spare time I usually play [videogames](https://steamcommunity.com/id/Juicio/).  
