@@ -4,4 +4,4 @@ subtitle: "cv"
 url: "/resume"
 ---
 
-![resume](../images/CV.jpg)
+![resume](../images/cv.jpg)
